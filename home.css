@@ -3,6 +3,19 @@
     margin-bottom: 50px;
 }
 
+.heading__filter{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* padding: ; */
+}
+
 
 table {
     border: 1px solid #ccc;
