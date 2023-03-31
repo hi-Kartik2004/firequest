@@ -1,0 +1,24 @@
+{
+  "name": "firequest",
+  "version": "1.0.0",
+  "description": "Sustainable garbage disposable system using firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-Kartik2004/firequest.git"
+  },
+  "author": "jagnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-Kartik2004/firequest/issues"
+  },
+  "homepage": "https://github.com/hi-Kartik2004/firequest#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.19.0",
+    "firebase-admin": "^11.5.0"
+  }
+}
