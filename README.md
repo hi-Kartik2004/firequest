@@ -21,6 +21,10 @@ Sustainable garbage disposable system using firebase.
 
 ![image](https://user-images.githubusercontent.com/98260819/229276672-43ba7864-ca69-41ba-99d5-aa9f042969f8.png)
 
+## No of END POINTS
+1. GET 
+2. POST
+
 
 
 
